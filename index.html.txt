@@ -1,8 +1,0 @@
-<html>
-<head>
-      <title>Teste Caio</title>
-</head>
-<body>
-<p>Teste Caio</p>
-</body>
-</html>
